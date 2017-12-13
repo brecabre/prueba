@@ -1,14 +1,19 @@
+
 ksK  bravo liala
 
 
 
 
 
-
 #Acho almuadilla acho
+
+poleeeeeeeeeeeeee
+
 extends VehicleBody
 KSK DESDE BRAVO
 # Member variables
+
+KSK DESDE CYCLOPI
 const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
 
