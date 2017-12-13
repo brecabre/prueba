@@ -5,6 +5,10 @@ extends VehicleBody
 const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
 
+# dOS VECES
+const STEER_SPEED = 1
+const STEER_LIMIT = 0.4
+
 var steer_angle = 0
 var steer_target = 0
 
