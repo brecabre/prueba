@@ -7,7 +7,7 @@ ksK  bravo liala
 
 #Acho almuadilla acho
 extends VehicleBody
-
+KSK DESDE BRAVO
 # Member variables
 const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
