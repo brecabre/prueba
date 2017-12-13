@@ -9,7 +9,8 @@ const STEER_LIMIT = 0.4
 # dOS VECES
 # dOS VECES
 # dOS VECES
-# dOS VECES
+# TRES
+
 
 const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
