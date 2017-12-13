@@ -6,6 +6,11 @@ const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
 
 # dOS VECES
+# dOS VECES
+# dOS VECES
+# dOS VECES
+# dOS VECES
+
 const STEER_SPEED = 1
 const STEER_LIMIT = 0.4
 
